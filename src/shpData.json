@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Dapper mint",
+      "imageUrl": "https://i.ibb.co/FwhV38x/dappermintshirt3.jpg",
+      "imageUrl2":"https://i.ibb.co/sm5Q2HF/dappermintshirt4.jpg",
+      "price": "35,000"
+    },
+
+    {
+      "id": 4,
+      "name": "Casual Snapback",
+      "imageUrl": "https://i.ibb.co/b6JRTjx/dappermintshirt6.jpg",
+      "imageUrl2":"https://i.ibb.co/DCsG5T8/dappermintshirt5.jpg",
+      "price": 22
+    },
+    {
+      "id": 5,
+      "name": "Vintage Cap",
+      "imageUrl": "https://i.ibb.co/XxVkG3H/dappermintshirt7.jpg",
+      "price": 19
+    },
+    {
+      "id": 6,
+      "name": "Modern Hat",
+      "imageUrl": "https://i.ibb.co/pjyFxWb/dappermintshirt8.jpg",
+      "price": 21
+    },
+    {
+      "id": 7,
+      "name": "Trendy Beanie",
+      "imageUrl": "https://i.ibb.co/FhKb8wd/dappermintshirt9.jpg",
+      "price": 16
+    },
+    {
+      "id": 8,
+      "name": "Chic Cap",
+      "imageUrl": "https://i.ibb.co/sP8Zqcq/dappermintshirt10.jpg",
+      "price": 23
+    },
+    {
+      "id": 9,
+      "name": "Palm Tree ",
+      "imageUrl": "https://i.ibb.co/j8npZTp/dappermintshirt.jpg",
+      "price": "50,000"
+    }
+  ]
+  
